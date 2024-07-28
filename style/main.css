@@ -50,6 +50,10 @@ body {
   width: 600px;
 }
 
+.hbd-chatbox {
+  white-space: pre-line; /* Handles newline characters */
+}
+
 .text-box p {
   margin: 0;
   text-align: left;
